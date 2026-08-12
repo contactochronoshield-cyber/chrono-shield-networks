@@ -340,6 +340,16 @@ We are developing our presence across Latin America while exploring internationa
 
 ---
 
+# Services & Pricing
+
+We offer accessible starting plans for private networks, infrastructure, cybersecurity, IoT, LoRa and AI-assisted monitoring.
+
+**View the current service catalog and starting prices:**
+
+[View Services & Pricing](docs/services.md)
+
+---
+
 # Official Links
 
 ### LinkedIn
