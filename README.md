@@ -6,6 +6,17 @@
 
 **A Chrono Shield Systems company**
 
+### Company Overview
+
+| | |
+|---|---|
+| **Founded** | 2024 |
+| **Team** | 6–12 partners and employees |
+| **Principal Operations** | Colombia |
+| **Focus** | Telecommunications · Cybersecurity · AI · Digital Infrastructure |
+| **Expansion** | Latin America & International Markets |
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-Chrono%20Shield%20Systems-181717?style=for-the-badge&logo=github)](https://github.com/contactochronoshield-cyber)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Official-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chrono-systems-a55a503a0/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%26%20Proprietary-2ea44f?style=for-the-badge)](#open-source--proprietary-technology)
