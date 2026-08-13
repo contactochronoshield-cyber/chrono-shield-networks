@@ -286,6 +286,81 @@ Our long-term objective is to develop technology from Latin America with interna
 
 ---
 
+# Corporate Values & Commitments
+
+Our values define how Chrono Shield Systems and Chrono Shield Networks develop technology, serve organizations and build long-term relationships.
+
+## Our Values
+
+### 🔐 Security by Design
+
+Security is considered from the architecture and development stages rather than added only after deployment.
+
+### 🧭 Transparency
+
+We communicate our capabilities, project status, pricing, limitations and commitments as clearly as possible.
+
+### 🚀 Responsible Innovation
+
+We research and experiment with emerging technologies while distinguishing clearly between technologies in development, experimental systems and production-ready solutions.
+
+### 🌎 Technological Sovereignty
+
+We seek to strengthen technological capabilities from Latin America and reduce unnecessary dependence on external infrastructure and proprietary ecosystems.
+
+### 🌐 Open Source & Collaboration
+
+We support Open Source technologies and responsible collaboration while respecting the licenses and communities behind the technologies we use.
+
+### 🛡️ Intellectual Property
+
+We protect our proprietary software, platforms, protocols and research while respecting the intellectual property of third parties.
+
+### 🔒 Privacy & Confidentiality
+
+We are committed to protecting customer information, credentials, infrastructure data and other confidential information through appropriate security practices.
+
+### ⚙️ Quality & Reliability
+
+We aim to build solutions that are maintainable, documented, testable and appropriate for their intended environment.
+
+### 🤝 Accessibility
+
+We seek to make professional technology accessible to individuals, startups, small organizations and larger enterprises through scalable service models.
+
+### 🌎 Commitment to Latin America
+
+We believe Latin America can develop advanced technology and infrastructure with global reach.
+
+### ⚖️ Responsible Business
+
+We commit to operating responsibly and respecting applicable legal, regulatory and contractual requirements.
+
+### 📈 Continuous Improvement
+
+We continuously research, test, measure, learn, correct and improve our technology and operations.
+
+---
+
+## Our Commitments
+
+Chrono Shield Networks commits to:
+
+- Protecting customer and infrastructure information.
+- Communicating honestly about the capabilities of our products and services.
+- Distinguishing experimental technology from production technology.
+- Maintaining responsible security practices.
+- Respecting Open Source licenses and intellectual property rights.
+- Improving the reliability and documentation of our services.
+- Developing technology with scalability and interoperability in mind.
+- Supporting responsible technological innovation.
+- Continuously improving our products, infrastructure and customer experience.
+- Building long-term relationships based on trust, professionalism and technical responsibility.
+
+> **We do not promise perfect technology. We commit to building technology that is responsible, secure, transparent and continuously improving.**
+
+---
+
 # Research & Development
 
 Our R&D roadmap includes:
