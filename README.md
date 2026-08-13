@@ -425,6 +425,34 @@ We offer accessible starting plans for private networks, infrastructure, cyberse
 
 ---
 
+# Official Channels
+
+### 🌐 Website
+
+**Official website — Coming Soon**
+
+Our official corporate website is currently under development.
+
+### 💼 LinkedIn
+
+**Chrono Shield Systems — Official**
+
+https://www.linkedin.com/in/chrono-systems-a55a503a0/
+
+### 📘 Facebook
+
+**Chrono Shield Systems — Official**
+
+https://www.facebook.com/share/19K7N9PJXh/
+
+### 🐙 GitHub
+
+**Chrono Shield Systems**
+
+https://github.com/contactochronoshield-cyber
+
+---
+
 # Official Links
 
 ### LinkedIn
