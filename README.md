@@ -2,133 +2,174 @@
 
 # CHRONO SHIELD NETWORKS
 
-### Telecommunications · Cybersecurity · Private Networks · Artificial Intelligence · Digital Infrastructure
+### Redes privadas seguras e infraestructura crítica para empresas y operaciones en Latinoamérica
 
-**A Chrono Shield Systems company**
-
-### Company Overview
-
-| | |
-|---|---|
-| **Founded** | 2024 |
-| **Team** | 6–12 partners and employees |
-| **Principal Operations** | Colombia |
-| **Focus** | Telecommunications · Cybersecurity · AI · Digital Infrastructure |
-| **Expansion** | Latin America & International Markets |
-
+**A Chrono Shield Systems company · Est. 2024**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Chrono%20Shield%20Systems-181717?style=for-the-badge&logo=github)](https://github.com/contactochronoshield-cyber)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Official-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chrono-systems-a55a503a0/)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%26%20Proprietary-2ea44f?style=for-the-badge)](#open-source--proprietary-technology)
+[![Facebook](https://img.shields.io/badge/Facebook-Official-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/19K7N9PJXh/)
 
-**Secure Infrastructure for a Connected Future.**
+**Private Networks · Cybersecurity · Telecommunications · AI · Digital Infrastructure**
 
 </div>
 
 ---
 
-# About Us
+# ¿Qué resolvemos?
 
-**Chrono Shield Networks** is the telecommunications and digital infrastructure division of **Chrono Shield Systems**.
+Ayudamos a empresas y operaciones en entornos difíciles a implementar conectividad privada, segura y confiable, con soluciones adaptables a sus necesidades de infraestructura.
 
-We research, develop and test technologies across:
-
-- Telecommunications
-- Private networks
-- Cybersecurity
-- Artificial intelligence
-- IoT and telemetry
-- Long-range communications
-- Network infrastructure
-- Distributed infrastructure
-- Industrial connectivity
-- Secure remote access
-- Cloud and edge infrastructure
-
-Our objective is to build technology capable of operating in real-world, industrial, remote and infrastructure-constrained environments.
+Nuestro enfoque combina redes privadas, seguridad, conectividad remota y tecnologías de infraestructura para escenarios empresariales, industriales y distribuidos.
 
 ---
 
-# Our Technology
+# Servicios disponibles actualmente
 
-Chrono Shield Networks combines **Open Source technologies**, internally developed software and proprietary technology.
+Nos concentramos comercialmente en soluciones que podemos implementar y soportar hoy.
 
-Our approach is based on interoperability rather than dependence on a single vendor or platform.
+## 1. Chrono Shield Private Networks
 
-```text
-                     CHRONO SHIELD SYSTEMS
-                              │
-                      CHRONO SHIELD NETWORKS
-                              │
-          ┌───────────────────┼───────────────────┐
-          │                   │                   │
-   TELECOMMUNICATIONS    CYBERSECURITY           AI
-          │                   │                   │
-     LoRa / IoT          Private Networks     Sentinel IA
-          │                   │                   │
-          └───────────────────┼───────────────────┘
-                              │
-                     DIGITAL INFRASTRUCTURE
-                              │
-                    DISTRIBUTED NETWORKS
-```
+### Redes privadas cifradas para empresas y equipos
 
----
+Diseñamos e implementamos redes privadas utilizando tecnologías como WireGuard para conectar usuarios, equipos, sedes y nodos de forma segura.
 
-# Telecommunications
+**Desde US$5/mes**
 
-Our telecommunications research focuses on architectures for:
+Servicios disponibles:
 
-- Private connectivity
-- Rural connectivity
-- Industrial networks
-- IoT
-- Telemetry
-- Remote infrastructure
-- Distributed nodes
-- Long-range communication
-- Hybrid network architectures
+- Private WireGuard VPN
+- Redes site-to-site
+- Acceso remoto seguro
+- Nodos privados
+- Conectividad entre equipos y sedes
+- Configuración personalizada
+- Soporte técnico
+- Administración de infraestructura
 
-We aim to integrate wireless technologies, IP networks, VPN infrastructure, edge computing and intelligent monitoring.
+### Implementaciones empresariales
+
+**Desde US$75**
+
+El precio final depende de:
+
+- Número de usuarios
+- Número de nodos
+- Ubicaciones
+- Tráfico
+- Requisitos de seguridad
+- Soporte
+- Hardware
+- Complejidad de la implementación
 
 ---
 
-# LoRa & Long-Range Communications
+# 2. Infraestructura de red para empresas
 
-We have experimented with **LoRa-based communications and IoT architectures** for low-power and long-range connectivity.
+Diseñamos arquitecturas adaptadas a operaciones que requieren:
 
-Applications include:
+- Conectividad privada
+- Acceso remoto
+- Segmentación de redes
+- Nodos distribuidos
+- Comunicación segura entre ubicaciones
+- Infraestructura edge
+- Integración de tecnologías Open Source y propietarias
 
-- Remote sensors
-- Telemetry
-- Environmental monitoring
-- Industrial monitoring
-- IoT
-- Remote infrastructure
-- Distributed nodes
-- Rural connectivity
+**Proyectos empresariales: desde US$75**
 
-LoRa can be integrated with gateways, IP networks, VPNs and centralized or distributed services.
+Los proyectos de mayor escala se cotizan individualmente.
 
 ---
 
-# Private Networks & WireGuard
+# Chrono Shield Onion
 
-Secure private networking is one of our core technology areas.
+## Solución estratégica en desarrollo
 
-We have tested **WireGuard-based private networks and encrypted tunnels** for connecting devices, servers and remote nodes.
+Chrono Shield Onion forma parte de nuestra investigación en infraestructura orientada a privacidad, servicios Onion, nodos privados y arquitecturas de conectividad resistentes.
 
-Our architectures can support:
+**Estado: En desarrollo**
 
-- Private VPNs
-- Corporate networks
-- Site-to-site connectivity
-- Secure remote administration
-- Node-to-node communication
-- Distributed infrastructure
-- Infrastructure management
+No presentamos esta tecnología como un producto comercial terminado hasta completar sus etapas de desarrollo, validación y seguridad.
 
-The objective is to make encrypted networking one layer of a broader secure infrastructure.
+---
+
+# Investigación y desarrollo
+
+Además de nuestras soluciones comerciales, mantenemos diferentes líneas tecnológicas en desarrollo:
+
+- Sentinel IA
+- LoRa / IoT
+- Private 5G
+- Telecommunications Infrastructure
+- Edge Infrastructure
+- Distributed Infrastructure
+- Industrial Connectivity
+- ChronoOS
+- Secure Network Nodes
+- Digital Infrastructure
+
+Estas iniciativas se incorporarán progresivamente al catálogo comercial cuando alcancen el nivel de madurez correspondiente.
+
+---
+
+# Casos de uso y validaciones técnicas
+
+Nuestra experiencia incluye pruebas y validaciones realizadas en escenarios reales.
+
+## Honduras — entorno minero
+
+### Validación de arquitectura de comunicación en ambiente minero
+
+Hemos probado tecnologías de comunicación y conectividad de largo alcance en entornos mineros de Honduras, incluyendo tecnologías basadas en LoRa.
+
+El objetivo fue evaluar alternativas de comunicación para escenarios donde la infraestructura convencional puede ser limitada.
+
+---
+
+## Redes privadas
+
+### Validación de conectividad privada con WireGuard
+
+Hemos desarrollado y probado arquitecturas de redes privadas basadas en WireGuard para conectividad segura, acceso remoto y comunicación entre nodos.
+
+Estas experiencias forman parte de nuestra línea de infraestructura de redes privadas.
+
+---
+
+## Colombia y Perú
+
+Nuestra actividad y desarrollo de infraestructura se orientan a operaciones en Colombia y Perú, con una visión de expansión hacia otros mercados latinoamericanos.
+
+Los nombres de clientes, contratos y resultados comerciales se publicarán únicamente cuando exista autorización para hacerlo.
+
+---
+
+# Nuestros diferenciadores
+
+## Diseñados para Latinoamérica
+
+Entendemos escenarios donde la infraestructura, conectividad y presupuesto pueden ser diferentes a los de otros mercados.
+
+## Seguridad desde el diseño
+
+La seguridad y privacidad forman parte de la arquitectura desde las primeras etapas.
+
+## Open Source + tecnología propietaria
+
+Combinamos tecnologías Open Source con software, investigación y desarrollos propios.
+
+Esto nos permite crear soluciones flexibles sin depender de un único proveedor tecnológico.
+
+## Personalización
+
+No todas las empresas necesitan la misma arquitectura.
+
+Diseñamos soluciones de acuerdo con usuarios, nodos, ubicaciones, infraestructura y requisitos específicos.
+
+## Soporte en español
+
+Atención y documentación orientadas principalmente al mercado latinoamericano.
 
 ---
 
@@ -136,23 +177,21 @@ The objective is to make encrypted networking one layer of a broader secure infr
 
 ## Artificial Intelligence for Infrastructure & Security
 
-**Sentinel IA** is an internally developed artificial intelligence initiative within the Chrono Shield ecosystem.
+**Sentinel IA** es una iniciativa de inteligencia artificial desarrollada dentro del ecosistema Chrono Shield.
 
-Its development focuses on applying AI to infrastructure and cybersecurity.
+Su investigación está orientada a:
 
-Research areas include:
+- Análisis de seguridad
+- Análisis de eventos
+- Monitoreo de infraestructura
+- Detección de anomalías
+- Inteligencia operacional
+- Asistencia automatizada
+- Telemetría de seguridad
+- Análisis de incidentes
+- Inteligencia de infraestructura
 
-- Security analysis
-- Event analysis
-- Infrastructure monitoring
-- Anomaly detection
-- Operational intelligence
-- Automated assistance
-- Security telemetry
-- Incident analysis
-- Infrastructure intelligence
-
-Our architecture aims to connect:
+Arquitectura conceptual:
 
 ```text
 NETWORK
@@ -168,366 +207,3 @@ ANALYSIS
 DETECTION
    ↓
 RESPONSE
-```
-
-Sentinel IA is part of our continuing research and development roadmap.
-
----
-
-# Open Source & Proprietary Technology
-
-Chrono Shield Networks follows a hybrid technology model.
-
-## Open Source
-
-We use, integrate and develop solutions around open technologies including:
-
-- Linux
-- WireGuard
-- LoRa ecosystem
-- IP networking
-- Open security technologies
-- Automation
-- Distributed infrastructure
-
-Open technologies allow us to inspect, adapt and integrate infrastructure according to project requirements.
-
-## Proprietary Technology
-
-We also develop proprietary software, platforms, protocols and technologies that may use closed-source or commercial licensing.
-
-This allows us to provide:
-
-- Enterprise software
-- Private deployments
-- Specialized integrations
-- Commercial support
-- Advanced security capabilities
-- Intellectual-property-protected technologies
-
-> **Open Source where openness creates value. Proprietary technology where specialization requires it.**
-
----
-
-# Industrial & Mining Experience
-
-Chrono Shield Networks has conducted technology experimentation in **mining environments in Honduras**, exploring communication architectures for environments where conventional connectivity can be limited.
-
-Our experimentation has involved areas such as:
-
-- Remote communication
-- Telemetry
-- Industrial connectivity
-- Remote monitoring
-- IoT
-- Long-range communication
-- Distributed infrastructure
-
-These experiences contribute to our research and development roadmap.
-
----
-
-# Colombia — Institutional Development
-
-Colombia is one of our principal technology and business development markets.
-
-## SECOP II
-
-Chrono Shield Networks is present within the **SECOP II ecosystem in Colombia** as part of our institutional and commercial development.
-
-Our areas of interest include:
-
-- Telecommunications
-- Technology infrastructure
-- Cybersecurity
-- Network services
-- Software
-- Digital infrastructure
-- Technical consulting
-- Connectivity
-
-SECOP II participation is part of our institutional development and does not, by itself, represent a government contract award.
-
----
-
-# MinTIC & Spectrum
-
-Chrono Shield Networks is developing capabilities related to telecommunications and radio-spectrum infrastructure.
-
-We are working through processes of **validation, preparation and institutional engagement related to the Colombian Ministry of Information Technologies and Communications (MinTIC)** and the regulatory framework surrounding spectrum use.
-
-This section does not claim that Chrono Shield Networks currently holds a definitive spectrum concession or authorization unless formally documented by the competent authority.
-
-Our technology interests include:
-
-- Private networks
-- Industrial connectivity
-- Rural connectivity
-- IoT
-- Telemetry
-- Wireless infrastructure
-- Mission-critical communications
-- Remote environments
-
----
-
-# International Presence & Expansion
-
-| Market | Status |
-|---|---|
-| 🇨🇴 Colombia | Operations / Development |
-| 🇵🇪 Peru | Operations / Development |
-| 🇭🇳 Honduras | Technology experimentation |
-| 🇸🇻 El Salvador | Expansion / Application |
-| 🇧🇷 Brazil | Expansion / Application |
-| 🇪🇪 Estonia | Expansion / Application |
-
-Our long-term objective is to develop technology from Latin America with international reach.
-
----
-
-# Corporate Values & Commitments
-
-Our values define how Chrono Shield Systems and Chrono Shield Networks develop technology, serve organizations and build long-term relationships.
-
-## Our Values
-
-### 🔐 Security by Design
-
-Security is considered from the architecture and development stages rather than added only after deployment.
-
-### 🧭 Transparency
-
-We communicate our capabilities, project status, pricing, limitations and commitments as clearly as possible.
-
-### 🚀 Responsible Innovation
-
-We research and experiment with emerging technologies while distinguishing clearly between technologies in development, experimental systems and production-ready solutions.
-
-### 🌎 Technological Sovereignty
-
-We seek to strengthen technological capabilities from Latin America and reduce unnecessary dependence on external infrastructure and proprietary ecosystems.
-
-### 🌐 Open Source & Collaboration
-
-We support Open Source technologies and responsible collaboration while respecting the licenses and communities behind the technologies we use.
-
-### 🛡️ Intellectual Property
-
-We protect our proprietary software, platforms, protocols and research while respecting the intellectual property of third parties.
-
-### 🔒 Privacy & Confidentiality
-
-We are committed to protecting customer information, credentials, infrastructure data and other confidential information through appropriate security practices.
-
-### ⚙️ Quality & Reliability
-
-We aim to build solutions that are maintainable, documented, testable and appropriate for their intended environment.
-
-### 🤝 Accessibility
-
-We seek to make professional technology accessible to individuals, startups, small organizations and larger enterprises through scalable service models.
-
-### 🌎 Commitment to Latin America
-
-We believe Latin America can develop advanced technology and infrastructure with global reach.
-
-### ⚖️ Responsible Business
-
-We commit to operating responsibly and respecting applicable legal, regulatory and contractual requirements.
-
-### 📈 Continuous Improvement
-
-We continuously research, test, measure, learn, correct and improve our technology and operations.
-
----
-
-## Our Commitments
-
-Chrono Shield Networks commits to:
-
-- Protecting customer and infrastructure information.
-- Communicating honestly about the capabilities of our products and services.
-- Distinguishing experimental technology from production technology.
-- Maintaining responsible security practices.
-- Respecting Open Source licenses and intellectual property rights.
-- Improving the reliability and documentation of our services.
-- Developing technology with scalability and interoperability in mind.
-- Supporting responsible technological innovation.
-- Continuously improving our products, infrastructure and customer experience.
-- Building long-term relationships based on trust, professionalism and technical responsibility.
-
-> **We do not promise perfect technology. We commit to building technology that is responsible, secure, transparent and continuously improving.**
-
----
-
-# Research & Development
-
-Our R&D roadmap includes:
-
-- Sovereign infrastructure
-- Distributed networks
-- Cybersecurity
-- Artificial intelligence
-- IoT
-- LoRa
-- Edge computing
-- Private networks
-- Telecommunications
-- Network automation
-- Security monitoring
-- Linux infrastructure
-- Distributed services
-- Hybrid network architectures
-
-We believe technology should be **researched, tested, measured and improved in real environments**.
-
----
-
-# Technology Ecosystem
-
-Chrono Shield Networks is part of a broader Chrono Shield technology ecosystem.
-
-Our development ecosystem includes projects related to:
-
-- Operating systems
-- Cybersecurity
-- Telecommunications
-- Remote nodes
-- Artificial intelligence
-- Cloud infrastructure
-- Network infrastructure
-- Education and technology training
-
-Individual projects may have their own repositories, licenses and documentation.
-
----
-
-# International Vision
-
-We believe Latin America can build and operate its own advanced technology infrastructure.
-
-Our vision is:
-
-> **Technology developed from Latin America for Latin America and the world.**
-
-We are developing our presence across Latin America while exploring international opportunities.
-
----
-
-# Services & Pricing
-
-We offer accessible starting plans for private networks, infrastructure, cybersecurity, IoT, LoRa and AI-assisted monitoring.
-
-**View the current service catalog and starting prices:**
-
-[View Services & Pricing](docs/services.md)
-
----
-
-# Search & Technology Topics
-
-Chrono Shield Systems develops and researches technologies across telecommunications, cybersecurity, artificial intelligence, private networks and digital infrastructure.
-
-Relevant technology areas include:
-
-- Telecommunications
-- Cybersecurity
-- Artificial Intelligence
-- Sentinel IA
-- Private Networks
-- WireGuard
-- VPN Infrastructure
-- LoRa
-- IoT
-- Network Security
-- Linux Infrastructure
-- Edge Computing
-- Distributed Infrastructure
-- Remote Connectivity
-- Industrial Connectivity
-- Network Monitoring
-- Digital Infrastructure
-- Open Source Technology
-- Proprietary Software
-- Latin American Technology
-- Telecommunications Infrastructure
-- Secure Remote Access
-
-## Official Technology Resources
-
-Our public technology and development resources are available through our official channels:
-
-- GitHub — Chrono Shield Systems
-- LinkedIn — Chrono Shield Systems
-- Facebook — Chrono Shield Systems
-
-We recommend using our official channels as authoritative sources for Chrono Shield Systems information.
-
----
-
-# Official Channels
-
-### 🌐 Website
-
-**Official website — Coming Soon**
-
-Our official corporate website is currently under development.
-
-### 💼 LinkedIn
-
-**Chrono Shield Systems — Official**
-
-https://www.linkedin.com/in/chrono-systems-a55a503a0/
-
-### 📘 Facebook
-
-**Chrono Shield Systems — Official**
-
-https://www.facebook.com/share/19K7N9PJXh/
-
-### 🐙 GitHub
-
-**Chrono Shield Systems**
-
-https://github.com/contactochronoshield-cyber
-
----
-
-# Official Links
-
-### LinkedIn
-
-**Chrono Shield Systems — Official**
-
-https://www.linkedin.com/in/chrono-systems-a55a503a0/
-
-### GitHub
-
-**Chrono Shield Systems**
-
-https://github.com/contactochronoshield-cyber
-
----
-
-# Contact
-
-**Chrono Shield Systems**
-
-**Chrono Shield Networks**
-
-Telecommunications · Cybersecurity · Artificial Intelligence · Digital Infrastructure
-
-📧 contactochronoshield@gmail.com
-
----
-
-<div align="center">
-
-# CHRONO SHIELD NETWORKS
-
-### Secure Infrastructure for a Connected Future.
-
-**© Chrono Shield Systems**
-
-</div>
