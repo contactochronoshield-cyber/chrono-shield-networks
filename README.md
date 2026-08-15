@@ -137,6 +137,67 @@ etapas de desarrollo, validación y seguridad.
 
 ---
 
+# 3. VCH777
+
+## Passive Cybersecurity Monitoring System
+
+**VCH777** es un sistema de monitoreo de ciberseguridad orientado
+a la visibilidad de actividad de red y estado de infraestructura.
+
+Está diseñado para trabajar en entornos controlados,
+educativos, SOCs y escenarios de defensa, manteniendo un
+enfoque de monitoreo pasivo.
+
+### Características
+
+- Detección y visualización de actividad de red
+- Monitoreo del estado del sistema
+- Monitoreo de interfaces de red
+- Información de infraestructura y conectividad
+- Compatibilidad con entornos Linux
+- Compatibilidad probada con Microsoft WSL2
+- Arquitectura orientada a monitoreo pasivo
+- Uso autorizado y controlado
+
+### Principio de operación
+
+VCH777 está diseñado para **observar y proporcionar visibilidad**,
+no para realizar intrusión, explotación o modificación no
+autorizada de redes.
+
+```text
+SYSTEM
+   ↓
+NETWORK
+   ↓
+INTERFACES
+   ↓
+TELEMETRY
+   ↓
+VCH777
+   ↓
+VISIBILITY
+   ↓
+SECURITY MONITORING
+```
+
+### Uso autorizado
+
+VCH777 está destinado exclusivamente a:
+
+- Infraestructura propia
+- Laboratorios autorizados
+- Entornos educativos
+- SOCs
+- Investigación de seguridad
+- Entornos de defensa debidamente autorizados
+
+**El uso no autorizado está prohibido.**
+
+**Estado: Producto desarrollado.**
+
+---
+
 # PRODUCTOS Y TECNOLOGÍAS EN DESARROLLO
 
 Las siguientes líneas forman parte de nuestro roadmap tecnológico:
