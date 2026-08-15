@@ -7,7 +7,7 @@
 **A Chrono Shield Systems company · Est. 2024**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Chrono%20Shield%20Systems-181717?style=for-the-badge&logo=github)](https://github.com/contactochronoshield-cyber)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Official-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chrono-systems-a55a503a0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Official-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chrono-systems-a55a503a/)
 [![Facebook](https://img.shields.io/badge/Facebook-Official-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/19K7N9PJXh/)
 
 **Private Networks · Cybersecurity · Telecommunications · AI · Digital Infrastructure**
@@ -16,180 +16,232 @@
 
 ---
 
-# ¿Qué resolvemos?
+# CHRONO SHIELD NETWORKS
 
-Ayudamos a empresas y operaciones en entornos difíciles a implementar conectividad privada, segura y confiable, con soluciones adaptables a sus necesidades de infraestructura.
+Chrono Shield Networks es la división de telecomunicaciones, redes
+privadas, ciberseguridad e infraestructura digital de Chrono Shield Systems.
 
-Nuestro enfoque combina redes privadas, seguridad, conectividad remota y tecnologías de infraestructura para escenarios empresariales, industriales y distribuidos.
+Fundada en **2024**, desarrollamos soluciones orientadas a empresas,
+operaciones distribuidas y escenarios donde la seguridad, conectividad
+y control de infraestructura son fundamentales.
+
+Actualmente contamos con una red de aproximadamente **6 a 12 socios y
+empleados**, dependiendo de proyectos y operaciones.
 
 ---
 
-# Servicios disponibles actualmente
+# ¿Qué resolvemos?
 
-Nos concentramos comercialmente en soluciones que podemos implementar y soportar hoy.
+Ayudamos a empresas y operaciones en entornos difíciles a implementar
+conectividad privada, segura y confiable, sin depender de una arquitectura
+única o de un proveedor tecnológico específico.
+
+Combinamos tecnologías abiertas, desarrollo propio y experiencia práctica
+para crear infraestructura adaptable a las necesidades de cada operación.
+
+---
+
+# PRODUCTOS Y SERVICIOS
+
+Nuestro enfoque comercial se concentra actualmente en productos que ya
+cuentan con desarrollo y capacidades concretas.
+
+---
 
 ## 1. Chrono Shield Private Networks
 
-### Redes privadas cifradas para empresas y equipos
+### Redes privadas cifradas para empresas y operaciones
 
-Diseñamos e implementamos redes privadas utilizando tecnologías como WireGuard para conectar usuarios, equipos, sedes y nodos de forma segura.
+Diseñamos e implementamos redes privadas utilizando tecnologías como
+WireGuard para conectar usuarios, equipos, sedes y nodos de manera segura.
 
-**Desde US$5/mes**
-
-Servicios disponibles:
+### Disponible actualmente
 
 - Private WireGuard VPN
 - Redes site-to-site
 - Acceso remoto seguro
 - Nodos privados
-- Conectividad entre equipos y sedes
+- Conectividad entre equipos
+- Conectividad entre sedes
 - Configuración personalizada
-- Soporte técnico
 - Administración de infraestructura
+- Soporte técnico
 
-### Implementaciones empresariales
+### Precios iniciales
 
-**Desde US$75**
+**Private VPN — desde US$5/mes**
 
-El precio final depende de:
+**Business VPN — desde US$25/mes**
 
-- Número de usuarios
-- Número de nodos
-- Ubicaciones
-- Tráfico
-- Requisitos de seguridad
-- Soporte
-- Hardware
-- Complejidad de la implementación
+**Implementación Private Network — desde US$75**
 
----
+**Enterprise Network — desde US$250**
 
-# 2. Infraestructura de red para empresas
-
-Diseñamos arquitecturas adaptadas a operaciones que requieren:
-
-- Conectividad privada
-- Acceso remoto
-- Segmentación de redes
-- Nodos distribuidos
-- Comunicación segura entre ubicaciones
-- Infraestructura edge
-- Integración de tecnologías Open Source y propietarias
-
-**Proyectos empresariales: desde US$75**
-
-Los proyectos de mayor escala se cotizan individualmente.
+El precio final depende de usuarios, nodos, tráfico, ubicaciones,
+hardware, soporte y requisitos técnicos.
 
 ---
 
-# Chrono Shield Onion
+# 2. Chrono Sentinel App
 
-## Solución estratégica en desarrollo
+## Plataforma de monitoreo y administración de nodos
 
-Chrono Shield Onion forma parte de nuestra investigación en infraestructura orientada a privacidad, servicios Onion, nodos privados y arquitecturas de conectividad resistentes.
+**Chrono Sentinel App v1** es una aplicación desarrollada dentro del
+ecosistema Chrono para administración y monitoreo de infraestructura
+distribuida.
 
-**Estado: En desarrollo**
+### Características
 
-No presentamos esta tecnología como un producto comercial terminado hasta completar sus etapas de desarrollo, validación y seguridad.
+- Administración de nodos
+- Arquitectura multi-nodo
+- Alertas
+- Integración con AAP
+- Monitoreo de infraestructura
+- Evolución hacia operaciones distribuidas
+
+### Ediciones
+
+**FREE**
+
+- 1 nodo
+
+**PRO**
+
+- Multi-nodo
+- Alertas
+- AAP
+- Capacidades adicionales de administración
+
+### Proyecto oficial
+
+https://github.com/contactochronoshield-cyber/chrono-sentinel-app
+
+**Estado: Producto desarrollado y disponible.**
+
+La disponibilidad de funciones y condiciones comerciales PRO puede
+evolucionar con las siguientes versiones.
 
 ---
 
-# Investigación y desarrollo
+# 3. Chrono Shield Onion
 
-Además de nuestras soluciones comerciales, mantenemos diferentes líneas tecnológicas en desarrollo:
+## Infraestructura orientada a privacidad
+
+Chrono Shield Onion es nuestra iniciativa de infraestructura basada en
+servicios Onion, nodos privados y arquitecturas orientadas a privacidad.
+
+**Estado: En desarrollo.**
+
+No lo presentamos como producto comercial terminado hasta completar sus
+etapas de desarrollo, validación y seguridad.
+
+---
+
+# PRODUCTOS Y TECNOLOGÍAS EN DESARROLLO
+
+Las siguientes líneas forman parte de nuestro roadmap tecnológico:
 
 - Sentinel IA
-- LoRa / IoT
 - Private 5G
-- Telecommunications Infrastructure
+- LoRa / IoT industrial
 - Edge Infrastructure
 - Distributed Infrastructure
-- Industrial Connectivity
+- Telecommunications Infrastructure
 - ChronoOS
 - Secure Network Nodes
-- Digital Infrastructure
+- Advanced Network Automation
 
-Estas iniciativas se incorporarán progresivamente al catálogo comercial cuando alcancen el nivel de madurez correspondiente.
+Estas tecnologías se incorporarán progresivamente al catálogo comercial
+cuando alcancen el nivel de madurez correspondiente.
 
 ---
 
-# Casos de uso y validaciones técnicas
+# CASOS DE USO Y VALIDACIONES
 
-Nuestra experiencia incluye pruebas y validaciones realizadas en escenarios reales.
+Nuestra experiencia técnica incluye validaciones realizadas en escenarios
+reales.
 
-## Honduras — entorno minero
+## Honduras — ambiente minero
 
 ### Validación de arquitectura de comunicación en ambiente minero
 
-Hemos probado tecnologías de comunicación y conectividad de largo alcance en entornos mineros de Honduras, incluyendo tecnologías basadas en LoRa.
+Hemos realizado pruebas de tecnologías de comunicación de largo alcance
+en ambientes mineros de Honduras, incluyendo tecnologías basadas en LoRa.
 
-El objetivo fue evaluar alternativas de comunicación para escenarios donde la infraestructura convencional puede ser limitada.
-
----
-
-## Redes privadas
-
-### Validación de conectividad privada con WireGuard
-
-Hemos desarrollado y probado arquitecturas de redes privadas basadas en WireGuard para conectividad segura, acceso remoto y comunicación entre nodos.
-
-Estas experiencias forman parte de nuestra línea de infraestructura de redes privadas.
+Estas validaciones estuvieron orientadas a escenarios donde la
+infraestructura convencional puede ser limitada.
 
 ---
 
-## Colombia y Perú
+## Redes privadas con WireGuard
 
-Nuestra actividad y desarrollo de infraestructura se orientan a operaciones en Colombia y Perú, con una visión de expansión hacia otros mercados latinoamericanos.
+### Validación de conectividad privada
 
-Los nombres de clientes, contratos y resultados comerciales se publicarán únicamente cuando exista autorización para hacerlo.
+Hemos desarrollado y probado arquitecturas basadas en WireGuard para:
+
+- Acceso remoto
+- Redes privadas
+- Comunicación entre nodos
+- Conectividad entre ubicaciones
+- Infraestructura distribuida
+
+Estas experiencias forman parte de nuestra línea principal de Private
+Networks.
 
 ---
 
-# Nuestros diferenciadores
+# DIFERENCIADORES
 
-## Diseñados para Latinoamérica
+## Enfoque Latinoamericano
 
-Entendemos escenarios donde la infraestructura, conectividad y presupuesto pueden ser diferentes a los de otros mercados.
+Desarrollamos soluciones pensando en las condiciones reales de
+infraestructura, conectividad y presupuesto de Latinoamérica.
 
 ## Seguridad desde el diseño
 
-La seguridad y privacidad forman parte de la arquitectura desde las primeras etapas.
+La seguridad forma parte de la arquitectura desde las primeras etapas.
 
-## Open Source + tecnología propietaria
+## Open Source + desarrollo propio
 
-Combinamos tecnologías Open Source con software, investigación y desarrollos propios.
-
-Esto nos permite crear soluciones flexibles sin depender de un único proveedor tecnológico.
+Combinamos tecnologías Open Source con software, investigación y
+desarrollos propietarios.
 
 ## Personalización
 
-No todas las empresas necesitan la misma arquitectura.
+Cada operación puede requerir una arquitectura diferente.
 
-Diseñamos soluciones de acuerdo con usuarios, nodos, ubicaciones, infraestructura y requisitos específicos.
+Adaptamos las soluciones según usuarios, nodos, ubicaciones,
+infraestructura y requisitos de seguridad.
+
+## Precios accesibles
+
+Buscamos ofrecer soluciones de entrada accesibles sin limitar la
+posibilidad de construir arquitecturas empresariales personalizadas.
 
 ## Soporte en español
 
-Atención y documentación orientadas principalmente al mercado latinoamericano.
+Atención y documentación orientadas al mercado latinoamericano.
 
 ---
 
-# Sentinel IA
+# SENTINEL IA
 
 ## Artificial Intelligence for Infrastructure & Security
 
-**Sentinel IA** es una iniciativa de inteligencia artificial desarrollada dentro del ecosistema Chrono Shield.
+**Sentinel IA** es nuestra iniciativa de inteligencia artificial aplicada
+a infraestructura y ciberseguridad.
 
-Su investigación está orientada a:
+### Líneas de investigación
 
-- Análisis de seguridad
-- Análisis de eventos
-- Monitoreo de infraestructura
-- Detección de anomalías
-- Inteligencia operacional
-- Asistencia automatizada
-- Telemetría de seguridad
-- Análisis de incidentes
-- Inteligencia de infraestructura
+- Security Analysis
+- Event Analysis
+- Infrastructure Monitoring
+- Anomaly Detection
+- Operational Intelligence
+- Automated Assistance
+- Security Telemetry
+- Incident Analysis
+- Infrastructure Intelligence
 
 Arquitectura conceptual:
 
