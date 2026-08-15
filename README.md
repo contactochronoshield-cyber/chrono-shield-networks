@@ -320,3 +320,87 @@ ANALYSIS
 DETECTION
    ↓
 RESPONSE
+
+---
+
+# CONTACTO OFICIAL — CHRONO SHIELD NETWORKS
+
+## 🇵🇪 Perú — Redes e infraestructura
+
+**WhatsApp: +51 921 824 300**
+
+Canal comercial para:
+
+- Chrono Shield Private Networks
+- Infraestructura de red
+- Implementaciones empresariales
+- Nodos privados
+- Soporte técnico
+
+---
+
+## 🇨🇱 Chile — IPTV
+
+**WhatsApp: +56 9 5000 0969**
+
+**Canal exclusivo para consultas relacionadas con IPTV.**
+
+---
+
+## 📧 Contacto institucional
+
+**contactochronoshield@gmail.com**
+
+---
+
+## 💬 Comunidad Chrono Shield
+
+Grupo oficial para compartir información, novedades y conversar sobre
+el ecosistema Chrono Shield.
+
+**WhatsApp Community:**
+
+https://chat.whatsapp.com/JuwyXEdeUsTFm8YKUER4ox
+
+---
+
+## 🌐 Canales oficiales
+
+### GitHub
+
+https://github.com/contactochronoshield-cyber
+
+### LinkedIn
+
+https://www.linkedin.com/in/chrono-systems-a55a503a/
+
+### Facebook
+
+https://www.facebook.com/share/19K7N9PJXh/
+
+### Chrono Sentinel App
+
+https://github.com/contactochronoshield-cyber/chrono-sentinel-app
+
+---
+
+# ¿NECESITAS UNA RED PRIVADA?
+
+Escríbenos para evaluar tu operación, usuarios, ubicaciones,
+requisitos de seguridad y arquitectura de conectividad.
+
+**Perú:** +51 921 824 300
+
+**Email:** contactochronoshield@gmail.com
+
+---
+
+<div align="center">
+
+**CHRONO SHIELD NETWORKS**
+
+Private Networks · Cybersecurity · Telecommunications · AI · Digital Infrastructure
+
+**A Chrono Shield Systems company · Established 2024**
+
+</div>
