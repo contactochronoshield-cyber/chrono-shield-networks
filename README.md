@@ -2,6 +2,14 @@
 
 # CHRONO SHIELD NETWORKS
 
+
+[🌎 WhatsApp Community](https://chat.whatsapp.com/JuwyXEdeUsTFm8YKUER4ox) ·
+[⭐ GitHub](https://github.com/contactochronoshield-cyber) ·
+[📘 Facebook](https://www.facebook.com/share/19K7N9PJXh/) ·
+[💼 LinkedIn](https://www.linkedin.com/in/chrono-systems-a55a503a/)
+
+**50+ IPTV Clients · Physical Infrastructure in Mexico · Latin American Operations & Field Validation**
+
 ### Telecommunications · Cybersecurity · Private Networks · AI · Digital Infrastructure
 
 **Secure. Private. Resilient. Independent.**
