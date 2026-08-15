@@ -14,35 +14,7 @@
 
 ---
 
-<div align="center">
-
-# CHRONO SHIELD NETWORKS
-
-
-[🌎 WhatsApp Community](https://chat.whatsapp.com/JuwyXEdeUsTFm8YKUER4ox) ·
-[⭐ GitHub](https://github.com/contactochronoshield-cyber) ·
-[📘 Facebook](https://www.facebook.com/share/19K7N9PJXh/) ·
-[💼 LinkedIn](https://www.linkedin.com/in/chrono-systems-a55a503a/)
-
-**50+ IPTV Clients · Physical Infrastructure in Mexico · Latin American Operations & Field Validation**
-
-### Telecommunications · Cybersecurity · Private Networks · AI · Digital Infrastructure
-
-**Secure. Private. Resilient. Independent.**
-
-**A Chrono Shield Systems company**
-
-Founded in 2024
-
-[GitHub](https://github.com/contactochronoshield-cyber) ·
-[LinkedIn](https://www.linkedin.com/in/chrono-systems-a55a503a/) ·
-[Facebook](https://www.facebook.com/share/19K7N9PJXh/)
-
-</div>
-
----
-
-# 01 — CORPORATE PROFILE
+01 — CORPORATE PROFILE
 
 **Chrono Shield Networks** is the telecommunications, cybersecurity and digital
 infrastructure division of **Chrono Shield Systems**.
