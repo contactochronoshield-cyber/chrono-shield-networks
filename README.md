@@ -52,6 +52,56 @@ Founded in **2024**, our ecosystem combines:
 
 # 02 — OUR MISSION
 
+
+---
+
+# ESTRUCTURA DE INVERSIÓN Y RESPALDO INTERNACIONAL
+
+Chrono Shield Networks cuenta con una estructura de inversión internacional orientada al crecimiento, desarrollo tecnológico, adquisición de infraestructura y expansión de operaciones en América Latina y Norteamérica.
+
+## Inversionistas estratégicos
+
+Nuestra estructura contempla actualmente:
+
+- **2 inversionistas internacionales estratégicos.**
+- **1 inversionista con presencia en República Dominicana.**
+- **1 inversionista con presencia en Estados Unidos.**
+
+La participación de inversionistas internacionales fortalece nuestra capacidad para desarrollar infraestructura, ampliar operaciones, financiar investigación tecnológica y establecer presencia en nuevos mercados.
+
+## Respaldo de capital y activos
+
+La organización declara una disponibilidad patrimonial destinada a sus operaciones y expansión de aproximadamente:
+
+**COP $4.000 millones**
+
+Este respaldo está compuesto por posiciones en:
+
+- Criptomonedas.
+- Dólares estadounidenses.
+- Capital destinado al desarrollo empresarial.
+- Recursos destinados a infraestructura tecnológica.
+- Inversión para expansión internacional.
+
+Estos recursos forman parte de nuestra estrategia de crecimiento y permiten proyectar operaciones de mayor escala en infraestructura digital, telecomunicaciones, ciberseguridad, inteligencia artificial, redes privadas y tecnologías Edge.
+
+## Expansión internacional
+
+La estructura de inversión permite a Chrono Shield Networks evaluar y desarrollar oportunidades en distintos mercados, incluyendo:
+
+- Colombia.
+- República Dominicana.
+- Estados Unidos.
+- México.
+- Honduras.
+- Chile.
+- Perú.
+- Otros mercados estratégicos de América Latina.
+
+Nuestro objetivo es construir una organización tecnológica con capacidad de inversión, infraestructura propia y presencia internacional, manteniendo una visión de largo plazo basada en soberanía digital, resiliencia tecnológica y protección de infraestructura crítica.
+
+> La información financiera presentada corresponde a recursos destinados al desarrollo y expansión empresarial y está sujeta a la documentación, valoración y verificación financiera correspondiente.
+
 ## Infrastructure organizations can trust.
 
 Modern organizations depend on digital infrastructure for:
@@ -1484,53 +1534,3 @@ organizaciones latinoamericanas operen de forma:
 **Founded in 2024**
 
 ---
-
-# ESTRUCTURA DE INVERSIÓN Y RESPALDO INTERNACIONAL
-
-Chrono Shield Networks cuenta con una estructura de inversión internacional orientada al crecimiento, desarrollo tecnológico, adquisición de infraestructura y expansión de operaciones en América Latina y Norteamérica.
-
-## Inversionistas estratégicos
-
-Nuestra estructura contempla actualmente:
-
-- **2 inversionistas internacionales estratégicos.**
-- **1 inversionista con presencia en República Dominicana.**
-- **1 inversionista con presencia en Estados Unidos.**
-
-La participación de inversionistas internacionales fortalece nuestra capacidad para desarrollar infraestructura, ampliar operaciones, financiar investigación tecnológica y establecer presencia en nuevos mercados.
-
-## Respaldo de capital y activos
-
-La organización declara una disponibilidad patrimonial destinada a sus operaciones y expansión de aproximadamente:
-
-**COP $4.000 millones**
-
-Este respaldo está compuesto por posiciones en:
-
-- Criptomonedas.
-- Dólares estadounidenses.
-- Capital destinado al desarrollo empresarial.
-- Recursos destinados a infraestructura tecnológica.
-- Inversión para expansión internacional.
-
-Estos recursos forman parte de nuestra estrategia de crecimiento y permiten proyectar operaciones de mayor escala en infraestructura digital, telecomunicaciones, ciberseguridad, inteligencia artificial, redes privadas y tecnologías Edge.
-
-## Expansión internacional
-
-La estructura de inversión permite a Chrono Shield Networks evaluar y desarrollar oportunidades en distintos mercados, incluyendo:
-
-- Colombia.
-- República Dominicana.
-- Estados Unidos.
-- México.
-- Honduras.
-- Chile.
-- Perú.
-- Otros mercados estratégicos de América Latina.
-
-Nuestro objetivo es construir una organización tecnológica con capacidad de inversión, infraestructura propia y presencia internacional, manteniendo una visión de largo plazo basada en soberanía digital, resiliencia tecnológica y protección de infraestructura crítica.
-
-> La información financiera presentada corresponde a recursos destinados al desarrollo y expansión empresarial y está sujeta a la documentación, valoración y verificación financiera correspondiente.
-
----
-
