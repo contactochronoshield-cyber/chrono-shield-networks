@@ -55,6 +55,39 @@ Founded in **2024**, our ecosystem combines:
 
 ---
 
+
+# 03 — WHAT WE BUILD
+
+Our technology ecosystem covers several layers:
+
+```text
+TELECOMMUNICATIONS
+        ↓
+PRIVATE NETWORKS
+        ↓
+SECURE ACCESS
+        ↓
+DISTRIBUTED INFRASTRUCTURE
+        ↓
+CLOUD + EDGE
+        ↓
+MONITORING
+        ↓
+CYBERSECURITY
+        ↓
+ARTIFICIAL INTELLIGENCE
+        ↓
+RESILIENCE
+        ↓
+DIGITAL SOVEREIGNTY
+
+---
+
+# CHRONO SHIELD NETWORKS — CORPORATE EXPANSION
+
+
+---
+
 # ESTRUCTURA DE INVERSIÓN Y RESPALDO INTERNACIONAL
 
 Chrono Shield Networks cuenta con una estructura de inversión internacional orientada al crecimiento, desarrollo tecnológico, adquisición de infraestructura y expansión de operaciones en América Latina y Norteamérica.
@@ -131,37 +164,6 @@ ability to recover can be reduced.
 Our objective is to make organizations:
 
 **more secure · more resilient · more connected · more autonomous**
-
----
-
-# 03 — WHAT WE BUILD
-
-Our technology ecosystem covers several layers:
-
-```text
-TELECOMMUNICATIONS
-        ↓
-PRIVATE NETWORKS
-        ↓
-SECURE ACCESS
-        ↓
-DISTRIBUTED INFRASTRUCTURE
-        ↓
-CLOUD + EDGE
-        ↓
-MONITORING
-        ↓
-CYBERSECURITY
-        ↓
-ARTIFICIAL INTELLIGENCE
-        ↓
-RESILIENCE
-        ↓
-DIGITAL SOVEREIGNTY
-
----
-
-# CHRONO SHIELD NETWORKS — CORPORATE EXPANSION
 
 ## CORPORATE TECHNOLOGY PLATFORM
 
