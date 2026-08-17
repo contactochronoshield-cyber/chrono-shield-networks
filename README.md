@@ -10,7 +10,8 @@
 
 [⭐ GitHub](https://github.com/contactochronoshield-cyber) · [💼 LinkedIn](https://www.linkedin.com/in/chrono-systems-a55a503a/) · [📘 Facebook](https://www.facebook.com/share/19K7N9PJXh/) · [🌎 WhatsApp Community](https://chat.whatsapp.com/JuwyXEdeUsTFm8YKUER4ox)
 
-**50+ IPTV Clients · Physical Infrastructure in Mexico · Latin American Operations & Field Validation**
+**60+ IPTV Clients · 200+ Mobile Devices Tested · 1,000+ Nodes Validated
+Physical Infrastructure in Mexico · Latin American Operations & Field Validation**
 
 ---
 
