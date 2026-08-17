@@ -51,7 +51,6 @@ Founded in **2024**, our ecosystem combines:
 
 ---
 
-# 02 — OUR MISSION
 
 Chrono Shield Networks desarrolla telecomunicaciones, ciberseguridad, redes privadas e infraestructura digital con un objetivo claro: construir tecnología segura, resiliente, privada y adaptable para entornos reales.
 
@@ -75,7 +74,7 @@ El proyecto nació formalmente en 2024, pero varias de las ideas, investigacione
 
 Nuestro objetivo a largo plazo es construir una plataforma tecnológica capaz de conectar infraestructura, software, seguridad, educación y despliegue regional.
 
-# 03 — WHAT WE BUILD
+# 02 — WHAT WE BUILD
 
 Our technology ecosystem covers several interconnected layers.
 
