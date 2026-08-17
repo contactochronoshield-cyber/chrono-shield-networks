@@ -53,36 +53,92 @@ Founded in **2024**, our ecosystem combines:
 
 # 02 — OUR MISSION
 
+Chrono Shield Networks desarrolla telecomunicaciones, ciberseguridad, redes privadas e infraestructura digital con un objetivo claro: construir tecnología segura, resiliente, privada y adaptable para entornos reales.
 
----
+Nuestra misión es reducir la dependencia innecesaria de infraestructuras centralizadas y proporcionar herramientas que permitan a organizaciones, empresas, comunidades y operadores mantener un mayor control sobre sus sistemas y datos.
 
+Trabajamos en:
+
+- Telecomunicaciones.
+- Ciberseguridad.
+- Redes privadas.
+- Infraestructura Edge.
+- Infraestructura distribuida.
+- Inteligencia artificial aplicada.
+- Monitoreo y observabilidad.
+- Soberanía digital.
+- Resiliencia operacional.
+- Educación técnica.
+- Investigación y desarrollo.
+
+El proyecto nació formalmente en 2024, pero varias de las ideas, investigaciones y líneas tecnológicas que dieron origen al ecosistema fueron desarrolladas durante años anteriores por el fundador, socios y colaboradores.
+
+Nuestro objetivo a largo plazo es construir una plataforma tecnológica capaz de conectar infraestructura, software, seguridad, educación y despliegue regional.
 
 # 03 — WHAT WE BUILD
 
-Our technology ecosystem covers several layers:
+Our technology ecosystem covers several interconnected layers.
 
-```text
-TELECOMMUNICATIONS
-        ↓
-PRIVATE NETWORKS
-        ↓
-SECURE ACCESS
-        ↓
-DISTRIBUTED INFRASTRUCTURE
-        ↓
-CLOUD + EDGE
-        ↓
-MONITORING
-        ↓
-CYBERSECURITY
-        ↓
-ARTIFICIAL INTELLIGENCE
-        ↓
-RESILIENCE
-        ↓
-DIGITAL SOVEREIGNTY
+### TELECOMMUNICATIONS
 
----
+Connectivity infrastructure and communication systems designed for real-world deployment.
+
+### PRIVATE NETWORKS
+
+Secure network environments for organizations, field operations, distributed teams and specialized infrastructure.
+
+### SECURE ACCESS
+
+Identity-aware access, authentication and protected communication channels.
+
+### DISTRIBUTED INFRASTRUCTURE
+
+Infrastructure designed to operate across multiple nodes, locations and environments without depending exclusively on a single centralized component.
+
+### CLOUD + EDGE
+
+Hybrid infrastructure combining centralized resources with local processing and edge deployment.
+
+### MONITORING
+
+Continuous visibility into infrastructure, systems, nodes and operational conditions.
+
+### SEGMENTATION
+
+Isolation of services, systems and network environments to reduce unnecessary exposure and limit the impact of failures or incidents.
+
+### SERVICES
+
+Technology and infrastructure services built around telecommunications, cybersecurity, networking and digital systems.
+
+### TELEMETRY
+
+Controlled operational data collection for diagnostics, monitoring and system awareness.
+
+### CHRONO GUARDIANS
+
+Local-first monitoring and anomaly detection designed for Termux, Android, Linux, Raspberry Pi, mini-PCs and Edge environments.
+
+Chrono Guardians is designed around operational sovereignty: monitoring can remain local, offline operation is supported, and external communication is controlled by the operator.
+
+### SENTINEL AI
+
+AI-oriented security and infrastructure capabilities designed to support detection, analysis and response.
+
+### DETECTION
+
+Identification of abnormal conditions, security events and infrastructure problems.
+
+### RESPONSE
+
+Operational mechanisms designed to react to detected conditions.
+
+### RECOVERY
+
+Resilience and recovery capabilities designed to restore services and maintain operational continuity.
+
+This architecture separates functional layers so the ecosystem can evolve without creating unnecessary dependence on a single component.
+
 
 # CHRONO SHIELD NETWORKS — CORPORATE EXPANSION
 
