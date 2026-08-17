@@ -74,6 +74,32 @@ El proyecto nació formalmente en 2024, pero varias de las ideas, investigacione
 
 Nuestro objetivo a largo plazo es construir una plataforma tecnológica capaz de conectar infraestructura, software, seguridad, educación y despliegue regional.
 
+## TEAM, PARTNERS & COLLABORATORS
+
+Chrono Shield Networks operates with a growing network of approximately **6–12 employees, partners and collaborators**, combining technical, operational and strategic capabilities across the ecosystem.
+
+Many members of the team, partners and collaborators bring between **7 and 14 years of professional experience** across areas including telecommunications, cybersecurity, software engineering, infrastructure, networking, systems administration, research and technology development.
+
+Our organizational model combines:
+
+- Employees and technical personnel.
+- Strategic partners.
+- Independent collaborators.
+- Engineering and infrastructure contributors.
+- Research and development contributors.
+- Regional and international collaborators.
+
+The project is also supported by individuals who contribute as **partners and strategic collaborators rather than traditional employees**, allowing Chrono Shield Networks to access specialized knowledge and experience as the organization expands.
+
+### CHRONO FUTURE INSTITUTE
+
+Through **Chrono Future Institute**, we are developing an education and training initiative focused on helping more people acquire practical knowledge in technology, infrastructure, cybersecurity, networking and emerging digital systems.
+
+The objective is to create pathways for students, technicians and future professionals to learn through practical technology and real infrastructure projects.
+
+We also seek collaboration with educational institutions, universities and technical organizations throughout Latin America.
+
+
 # 02 — WHAT WE BUILD
 
 Our technology ecosystem covers several interconnected layers.
